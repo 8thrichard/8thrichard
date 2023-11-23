@@ -39,6 +39,10 @@ I value collaboration and believe that the best results come from diverse teams 
 - Actively involved in coding projects and personal development.
 - Constantly expanding my skill set through continuous learning.
 ## Dashboards
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=8thrichard)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=8thrichard&layout=compact)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=8thrichard&show_icons=true&theme=transparent)
+
 
 Feel free to explore my repositories, and don't hesitate to reach out for collaboration or just a friendly chat. Let's build something awesome together! 🚀
