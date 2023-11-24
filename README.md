@@ -1,6 +1,6 @@
 # About Me
 
-Hello there! 👋 I'm Richard, an undergraduate student pursuing a Bachelor of Science in Computer Science. I'm passionate about coding, cross-team collaboration, networking, and teaching. I have a creative mind for problem-solving, and I enjoy the world of web development.
+Hello there!I'm Richard, an undergraduate student pursuing a Bachelor of Science in Computer Science. I'm passionate about coding, cross-team collaboration, networking, and teaching. I have a creative mind for problem-solving, and I enjoy the world of web development.
 
 ## 🔧 Skills
 
